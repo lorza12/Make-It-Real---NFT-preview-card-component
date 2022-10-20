@@ -24,7 +24,7 @@ Tus usuarios deberían poder:
 
 
 
-<h1>mi proceso</h1>
+<h1>Mi proceso</h1>
 
 - Construido con HTML implementando una nueva estructura 
 
@@ -41,9 +41,23 @@ Creamos un archivo HTML mejorando cada vez las buenas practicas en la estrucutur
 
  <h1>Aprendi</h1>
 
-se inplementos una nueva propiedad que nos ayuda a sobreponer una imagen sobre otra u/o hacer cambio de color al momento de que el cursor pase por encima del elemento seleccionado 
+Se inplementos una nueva propiedad que nos ayuda a sobreponer una imagen sobre otra u/o hacer cambio de color al momento de que el cursor pase por encima del elemento seleccionado 
 ``` 
+.img:hover + .view{
+    display: block;
+}
 
+.img:hover{
+    filter: opacity(0.6);
+}
+
+.span3:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+h1:hover{
+    color: hsl(178, 100%, 50%);
+}
     
 
 ```
@@ -51,7 +65,7 @@ se inplementos una nueva propiedad que nos ayuda a sobreponer una imagen sobre o
     
 <h1>desarrollo continuo</h1>
 
-ir cada vez desarrollando mas destresa a la hora de organizar y enteder el comportamiento del codigo CSS y seguir en el desarrollo investigativo de mas herramientas para la elaboracion de nuestros proyectos, para asi, facilitar la resolucion de estos.
+Ir cada vez desarrollando mas destresa a la hora de organizar y enteder el comportamiento del codigo CSS y seguir en el desarrollo investigativo de mas herramientas para la elaboracion de nuestros proyectos, para asi, facilitar la resolucion de estos.
 
 <h1>Recursos utiles</h1>
 
@@ -59,5 +73,5 @@ ir cada vez desarrollando mas destresa a la hora de organizar y enteder el compo
 
 <h1>Expresiones de gratitud</h1>
 
-- agradecimiento a los mentores que sirvieron de apoyo para mi continuo aprendizaje
+- Agradecimiento a mentores y compañeros por estar prestos a resolver cualquier inquietud:
 
