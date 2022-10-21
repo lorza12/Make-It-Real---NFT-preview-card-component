@@ -1,7 +1,6 @@
 
 .container {
     background-color: hsl(216, 50%, 16%);
-    /* padding: 2rem; */
     text-align: left;
     margin: 5%;
     height: 580px;
@@ -102,9 +101,13 @@ img.img3{
 
 }
 
-.view{
+img.view{
+    display: flex;
     position: absolute;
+    justify-content: center;
+    align-items: center;
     display: none;
+
     
     
 }
