@@ -8,23 +8,20 @@
 
 <h1>Reto</h1>
 
-Su desafío es construir este componente de tarjeta de vista previa y lograr que se parezca lo más posible al diseño.
+Su desafío es construir este componente de tarjeta de perfil y lograr que se parezca lo más posible al diseño.
 
 Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
-Tus usuarios deberían poder:
+NOTA: Pueden usar imagen y sus datos en vez de los sugeridos en el diseño.
 
-- Ver el diseño óptimo según el tamaño de pantalla de su dispositivo
-- Ver hover y focus para elementos interactivos
+![fot1](https://user-images.githubusercontent.com/115027137/197093555-244fc273-fd55-40bc-a95c-1754fbf15238.png)
 
-![MFT2](https://user-images.githubusercontent.com/115027137/196827286-17d9c2ed-8b6f-4307-acb8-5f8e5424a1dd.png)
-
-![NFT1](https://user-images.githubusercontent.com/115027137/196827297-b5a4ae90-c6da-4dca-9fef-3b9263eaf534.png)
+![fot2](https://user-images.githubusercontent.com/115027137/197093563-907e117d-4f5a-44b9-a698-3105493e8df3.png)
 
 
 
 
-<h1>mi proceso</h1>
+<h1>Mi proceso</h1>
 
 - Construido con HTML implementando una nueva estructura 
 
@@ -41,17 +38,11 @@ Creamos un archivo HTML mejorando cada vez las buenas practicas en la estrucutur
 
  <h1>Aprendi</h1>
 
-se inplementos una nueva propiedad que nos ayuda a sobreponer una imagen sobre otra u/o hacer cambio de color al momento de que el cursor pase por encima del elemento seleccionado 
-``` 
-
-    
-
-```
-    
+   
     
 <h1>desarrollo continuo</h1>
 
-ir cada vez desarrollando mas destresa a la hora de organizar y enteder el comportamiento del codigo CSS y seguir en el desarrollo investigativo de mas herramientas para la elaboracion de nuestros proyectos, para asi, facilitar la resolucion de estos.
+Ir cada vez desarrollando mas destresa a la hora de organizar y enteder el comportamiento del codigo CSS y seguir en el desarrollo investigativo de mas herramientas para la elaboracion de nuestros proyectos, para asi, facilitar la resolucion de estos.
 
 <h1>Recursos utiles</h1>
 
@@ -59,5 +50,5 @@ ir cada vez desarrollando mas destresa a la hora de organizar y enteder el compo
 
 <h1>Expresiones de gratitud</h1>
 
-- agradecimiento a los mentores que sirvieron de apoyo para mi continuo aprendizaje
+- Agradecimiento a mentores y compañeros por estar prestos a resolver cualquier inquietud:
 
